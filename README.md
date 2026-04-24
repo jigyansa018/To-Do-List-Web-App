@@ -6,7 +6,9 @@ Motive to build a task management application.
 
 # Features: 
 ● Add task 
-● Delete task 
+
+● Delete task
+
 ● Mark task as completed 
 
 # Storage: 
